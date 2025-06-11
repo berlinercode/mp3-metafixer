@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart
+eyed3
+musicbrainzngs
+acoustid
